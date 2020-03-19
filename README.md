@@ -15,7 +15,7 @@ A repository for Spring 2020 ECON 690 Final Project work.
 3. We need cost data, specifically public costs (Medicare plus Medicaid) data for each state from 2000 to 2018. We also need data on annual opioid deaths and data on state level socio-demographic factors. I will send you some possible data leads in a few days. 
 4. You need to submit a two-page research abstract by Sunday, April 5, 11:00 pm. 
 
-# Other Notes from Dr. CHattopadhyay
+# Other Notes from Dr. Chattopadhyay
 1. Check out a laptop for 30 Days from the 1st floor Research Commons in the Library
   Tues. 3/17 between 10:00 a.m. and 3:00 p.m.
   Wed 3/18 between 10:00 a.m. and 3:00 p.m., as long as laptops are available
